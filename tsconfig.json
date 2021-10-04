@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-//    "outDir": "./src/index.tsx",
+    "outDir": "./src/index.tsx",
     "target": "es5",
     "lib": [
       "dom",
@@ -26,5 +26,3 @@
   ]
 }
 
-// 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
-///saya tokeny
